@@ -1,4 +1,6 @@
 # AWS Lambda with CloudWatch for sending event Notifications (Faas) 
+![image](https://github.com/12rashic/AWSLambda-with-Cloudwatch/assets/62201854/44a70533-c1e2-4f4b-b57f-849cbc0a1ad6)
+
 
 ## Lambda as Function -as -a Service
 You must’ve heard Iaas , Paas , Saas , but yes there exist a Faas 
